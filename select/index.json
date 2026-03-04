@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "You",
+  "base_artist": "Regard, Troye Sivan, & Tate McRae",
+  "createdAt": "2026-03-04T08:19:23.942123Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Knew You Were Trouble.",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/01_I_Knew_You_Were_Trouble._Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Look What You Made Me Do",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/02_Look_What_You_Made_Me_Do_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "'Til You Can't",
+      "artist": "Cody Johnson",
+      "has_synced": true,
+      "path": "select/03_'Til_You_Can't_Cody_Johnson.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Are You Bored Yet? (feat. Clairo)",
+      "artist": "Wallows feat. Clairo",
+      "has_synced": true,
+      "path": "select/04_Are_You_Bored_Yet__(feat._Clairo)_Wallows_feat._Clairo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Are You Bored Yet? (feat. Clairo)",
+      "artist": "Wallows;Clairo",
+      "has_synced": true,
+      "path": "select/05_Are_You_Bored_Yet__(feat._Clairo)_Wallows;Clairo.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Are You Bored Yet? (feat. Clairo)",
+      "artist": "Wallows",
+      "has_synced": true,
+      "path": "select/06_Are_You_Bored_Yet__(feat._Clairo)_Wallows.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Are You Lonely (feat. ISÁK)",
+      "artist": "Steve Aoki feat. Alan Walker & Isak",
+      "has_synced": true,
+      "path": "select/07_Are_You_Lonely_(feat._ISÁK)_Steve_Aoki_feat._Alan_Walker_&_Isak.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Are You Lonely",
+      "artist": "Steve Aoki;Alan Walker;Isak",
+      "has_synced": true,
+      "path": "select/08_Are_You_Lonely_Steve_Aoki;Alan_Walker;Isak.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Can't Have Mine (Find You a Girl)",
+      "artist": "Dylan Scott",
+      "has_synced": true,
+      "path": "select/09_Can't_Have_Mine_(Find_You_a_Girl)_Dylan_Scott.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Chasing After You",
+      "artist": "Ryan Hurd",
+      "has_synced": true,
+      "path": "select/10_Chasing_After_You_Ryan_Hurd.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Country'd Look Good On You",
+      "artist": "Frank Ray",
+      "has_synced": true,
+      "path": "select/11_Country'd_Look_Good_On_You_Frank_Ray.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Do It All for You",
+      "artist": "Alan Walker feat. Trevor Guthrie",
+      "has_synced": true,
+      "path": "select/12_Do_It_All_for_You_Alan_Walker_feat._Trevor_Guthrie.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Do It All for You",
+      "artist": "Alan Walker;Trevor Guthrie",
+      "has_synced": true,
+      "path": "select/13_Do_It_All_for_You_Alan_Walker;Trevor_Guthrie.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Don't Need You",
+      "artist": "Rameses B feat. Laura Brehm",
+      "has_synced": true,
+      "path": "select/14_Don't_Need_You_Rameses_B_feat._Laura_Brehm.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Don't Need You",
+      "artist": "Rameses B",
+      "has_synced": true,
+      "path": "select/15_Don't_Need_You_Rameses_B.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "You",
+      "artist": "Regard, Troye Sivan, Tate McRae",
+      "has_synced": false,
+      "path": "select/pl_01_You_Regard,_Troye_Sivan,_Tate_McRae.txt"
+    }
+  ]
+}
