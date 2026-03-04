@@ -1,0 +1,98 @@
+# Regard, Troye Sivan, & Tate McRae – You
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Yeah
+All I see is you is you is you
+Oh you
+How could you ever leave me
+without a chance to try
+How can I be sorry
+if I don't know the crime
+I should be mad
+‘cause you never told me why
+Still I can't seem to
+say goodbye
+Ooh yeah
+When I try to fall back
+I fall back to you (yeah)
+When I talk to my friends
+I talk about you (yeah)
+When the Hennessy's strong
+all I see is you is you is you
+oh you
+Ooh (yeah)
+No I haven't moved on
+but trust me I've tried (yeah)
+If I give you a call
+don't hang up the line (yeah)
+When the Hennessy's strong
+all I see is you is you is you
+oh you
+oh you
+I'm good at overthinking
+But I haven't even got this far
+All I know is that my mind is
+In the back seat
+of your Corvette car
+You got me at my baddest
+And you got me
+‘round your fingertip
+Should be fed up
+with your bullshit
+But everything about you
+no I can't resist
+How could you ever leave me
+without a chance to try
+How can I be sorry
+if I don't know the crime
+I should be mad
+that you never told me why
+Still I can't seem to
+say goodbye
+Ooh yeah
+When I try to fall back
+I fall back to you (yeah)
+When I talk to my friends
+I talk about you (yeah)
+When the jealousy's strong
+all I see is you is you is you
+oh you
+ooh (yeah)
+No I haven't moved on
+but trust me I've tried
+If I give you a call
+don't hang up the line (yeah)
+When the jealousy's strong
+all I see is you is you is you
+oh you
+Is you oh you
+Is you is you oh you
+I see your face
+in every stranger
+everywhere I go
+I hear your voice
+in conversations
+every word you spoke
+Nearly blocked you on my phone
+about a thousand times
+Yeah I know I should say goodbye
+Yeah I know I should say goodbye
+Ooh yeah
+When I try to fall back
+I fall back to you (yeah)
+When I talk to my friends
+I talk about you (yeah)
+When the Hennessy's strong
+all I see is you is you is you
+oh you
+ooh (yeah)
+No I haven't moved on
+but trust me I've tried (yeah)
+If I give you a call
+don't hang up the line (yeah)
+When the Hennessy's strong
+all I see is you is you is you
+oh you
+```
